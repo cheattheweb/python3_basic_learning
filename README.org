@@ -1,0 +1,5 @@
+#+TITLE: Python 3 Basics
+#+DESCRIPTION: Python basics stuffs
+#+AUTHOR: Arka Barua
+
+This repo contains the code I wrote when learning Python3.
